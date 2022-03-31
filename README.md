@@ -1,3 +1,6 @@
+Below are answers to the questions related to this assignment.
+
+
 Question: Did the Google search traffic increase during the month that MercadoLibre released its financial results?
 Answer: # Google search traffice increased during the month MercadoLibre released its financial results.
 
